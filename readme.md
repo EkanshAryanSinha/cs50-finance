@@ -1,6 +1,6 @@
 # Finance: A Stock Portfolio
 
-Project for Week 8 of Harvard's CS50
+Project for Week 9 of Harvard's CS50
 
 [View the full assignment description on CS50's OpenCourseWare](https://cs50.harvard.edu/x/2020/tracks/web/finance/)
 
